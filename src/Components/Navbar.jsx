@@ -4,7 +4,7 @@ import React from "react"
 function Navbar(){
   return (
     <nav className = "navbar">
-        <img className="airlogo" src="src/assets/airbnb-logo.png"></img>
+        <img className="airlogo" src="/assets/airbnb-logo.png"></img>
       </nav>
   )
 }
